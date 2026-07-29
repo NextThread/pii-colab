@@ -1,0 +1,66 @@
+CUSTOMER REGISTRATION FORM
+
+Personal Information
+
+My full name is Arjun Mehta.
+
+I was born on 15 March 1998.
+
+My email address is arjun.mehta@gmail.com.
+
+You can contact me at 9812345678.
+
+My Aadhaar number is 5678 1234 9012.
+
+My PAN number is XY ZAB1234C.
+
+I currently live at 18 VIP Road, Agartala, Tripura.
+
+
+Employment Details
+
+I am employed as a Data Analyst at TechNova Solutions Pvt. Ltd.
+
+I joined the organisation on 10 June 2022.
+
+My employee ID is EMP-2022-1847.
+
+My official email address is arjun.mehta@technova.com.
+
+My annual salary is ₹8,50,000.
+
+
+Emergency Contact Details
+
+In case of emergency, please contact Neha Mehta.
+
+Her phone number is 9876501234.
+
+Her email address is neha.mehta@example.com.
+
+She lives at 12 Park Street, Kolkata, West Bengal.
+
+
+Banking Information
+
+My bank account number is 123456789012.
+
+My IFSC code is SBIN0001234.
+
+My debit card number is 4111 2222 3333 4444.
+
+
+Address Information
+
+My permanent address is 45 Salt Lake Road, Kolkata, West Bengal.
+
+My current residential address is 18 VIP Road, Agartala, Tripura.
+
+
+Additional Information
+
+I have been working in the technology industry for four years.
+
+My hobbies include coding, reading technical books, and participating in programming contests.
+
+I have solved more than 2500 programming problems on various competitive programming platforms.
